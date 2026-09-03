@@ -1,5 +1,3 @@
-# Hey there 👋
-
 I'm Dmytro, a frontend developer from Ukraine.
 
 I build modern web applications with **React, TypeScript, and JavaScript**.
