@@ -22,7 +22,7 @@ working products.
 
 ### Other Technologies
 
-`Go` `C#` `Python` `SQL` `MongoDB` `Firebase` `Docker`
+`Go` `C#` `Python` `SQL` `MongoDB` `Firebase` `Docker` `Heroku` `Azure` `DigitalOcean` `CloudFlare`
 
 ### Tools
 
