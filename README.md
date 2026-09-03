@@ -22,7 +22,7 @@ working products.
 
 ### Other Technologies
 
-`Go` `C#` `Python` `SQL` `MongoDB` `Docker`
+`Go` `C#` `Python` `SQL` `MongoDB` `Firebase` `Docker`
 
 ### Tools
 
