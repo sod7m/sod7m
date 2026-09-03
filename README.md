@@ -22,7 +22,7 @@ working products.
 
 ### Other Technologies
 
-`Go` `C#` `Python` `SQL` `MongoDB` `Firebase` `Docker` `Heroku` `Azure` `DigitalOcean` `CloudFlare`
+`Go` `C#` `Python` `SQL` `MongoDB` `Firebase` `Docker` `Heroku` `Azure` `DigitalOcean` `Cloudflare`
 
 ### Tools
 
@@ -77,17 +77,20 @@ A platform helping small businesses relocate and recover during wartime.
 - State management
 - Real-time applications
 - Mobile applications with Flutter
+- Real-time voice and video communication
+- WebRTC-based camera and microphone features
+- Multiplayer applications
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced React patterns
-- TypeScript
+- Modern web development practices
 - Frontend architecture
 - Testing
 - Next.js
-
+- Node.js
 ---
 
 ## 🎯 Goals
